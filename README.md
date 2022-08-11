@@ -1,1 +1,1 @@
-# EDA_Capstone_Project
+# Supervised ML Regression_Capstone_Project
