@@ -1,4 +1,6 @@
 # Demand-Prediction-for-public-transport
+![image](https://user-images.githubusercontent.com/98402439/204305312-3d0bfaff-dc5d-41c3-825d-978e26541332.png)
+
 
 ## Problem Description
 This challenge asks you to build a model that predicts the number of seats that Mobiticket can expect to sell for each ride, i.e. for a specific route on a specific date and time. There are 14 routes in this dataset. All of the routes end in Nairobi and originate in towns to the North-West of Nairobi towards Lake Victoria.
@@ -74,5 +76,12 @@ Goole Colab
 ## Conclusion 
 We used diffent type of regression algorithms to train our model like, Linear Regression, Regularized linear regression (Ridge and Lasso), GBM,Random Forest Regressor, XGboost regresssor. and Also we tuned the parameters of Random forest regressor and XGboost regressor and also found the important features for training the model. Out of them XGboost with tuned hyperparameters gave the best result.
 
+## References
+anshudhanshu Demand-Prediction-for-public-transport(Github)
 
+Available : https://github.com/anshudhanshu/Demand-Prediction-for-public-transport
+
+Overview of the four-step transport demand model
+
+Available : https://www.youtube.com/watch?v=h2rxC-0rZLU
 
